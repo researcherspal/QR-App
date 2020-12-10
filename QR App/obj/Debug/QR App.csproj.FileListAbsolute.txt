@@ -1,0 +1,13 @@
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\bin\Debug\QR App.exe.config
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\bin\Debug\QR App.exe
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\bin\Debug\QR App.pdb
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\obj\Debug\QR_App.Properties.Resources.resources
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\obj\Debug\QR App.csproj.GenerateResource.cache
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\obj\Debug\QR App.csproj.CopyComplete
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\obj\Debug\QR App.exe
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\obj\Debug\QR App.pdb
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\obj\Debug\QR_App.QRApp.resources
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\bin\Debug\MetroFramework.Design.dll
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\bin\Debug\MetroFramework.dll
+C:\Users\ResearcherS\source\repos\FoxLearnTutorials\QR\QR App\QR App\bin\Debug\MetroFramework.Fonts.dll
